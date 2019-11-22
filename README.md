@@ -2,11 +2,11 @@
 All CAs for the Programming for Data Analytics module.
 
 ### CAs in progress:
-> CA3: Spellchecker for directory
+* CA3: Spellchecker for directory
 
 ### CAs planned:
-> Christmas CA
+* Christmas CA
 
 ### CAs completed:
-> CA1: R exercises
-> CA2: Kaggle example
+* CA1: R exercises
+* CA2: Kaggle example
