@@ -26,8 +26,7 @@ print("* We will be checking the spelling of all    *")
 print("* files within the directory of your choice  *")
 print("**********************************************")
 print("")
-my_path = 'C:\1_DBS\1_Programming\B9DA100-SR\CA3_Spellchecker'
-# input("Please set your working directory here: ")
+my_path = input("Please set your working directory here: ")
 
 # CREATING SPELLCHECKER OBJECT
 class SpellChecker(object):
